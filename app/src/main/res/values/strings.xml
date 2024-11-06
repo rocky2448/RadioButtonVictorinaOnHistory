@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Я историк</string>
+    <string name="button_start">Начать</string>
+    <string name="text_view_viktorina">Викторина по Истории России</string>
+
+    <string name="question1">В каком году началась русско-японская война?</string>
+    <string name="one_activity_answer1">в 1894 году</string>
+    <string name="one_activity_answer2">в 1904 году</string>
+    <string name="one_activity_answer3">в 1924 году</string>
+    <string name="one_activity_answer4">в 1954 году</string>
+
+    <string name="question2">В каком году началась русско-турецкая война?</string>
+    <string name="two_activity_answer1">в 1847 году</string>
+    <string name="two_activity_answer2">в 1857 году</string>
+    <string name="two_activity_answer3">в 1867 году</string>
+    <string name="two_activity_answer4">в 1877 году</string>
+
+    <string name="question3">В каком году началась русско-финская война?</string>
+    <string name="three_activity_answer1">в 1939 году</string>
+    <string name="three_activity_answer2">в 1949 году</string>
+    <string name="three_activity_answer3">в 1959 году</string>
+    <string name="three_activity_answer4">в 1969 году</string>
+
+    <string name="question4">В каком году началась русско-польская война?</string>
+    <string name="four_activity_answer1">в 1644 году</string>
+    <string name="four_activity_answer2">в 1654 году</string>
+    <string name="four_activity_answer3">в 1664 году</string>
+    <string name="four_activity_answer4">в 1674 году</string>
+
+    <string name="question5">В каком году началась русско-китайская война?</string>
+    <string name="five_activity_answer1">в 1880 году</string>
+    <string name="five_activity_answer2">в 1890 году</string>
+    <string name="five_activity_answer3">в 1900 году</string>
+    <string name="five_activity_answer4">в 1910 году</string>
+    <string name="text_view_score_result">Баллы</string>
+    <string name="text_view_info_history">Информация об уровне знаний</string>
+    <string name="button_finish">Завершить</string>
+</resources>

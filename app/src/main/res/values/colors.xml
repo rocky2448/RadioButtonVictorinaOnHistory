@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#5DEDA7</color>
+    <color name="background_questions">#A4ADA8</color>
+    <color name="radio_group_background">#7FCBFF</color>
+</resources>
